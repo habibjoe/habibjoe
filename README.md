@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=Flutter&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=Flutter&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=flat&logo=Google-Colab&logoColor=white">&nbsp;\
 <img src="https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=LaTeX&logoColor=white">&nbsp;
