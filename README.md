@@ -1,6 +1,6 @@
 - 👋 Hi there, **I’m @habibjoe**
-- 🏢 I'm a **Final year Control engineering. student at Polytechnic School.**
-- 🔭 I’m currently working on **my end of studies project**.
+- 🏢 I'm a **Control engineer from Polytechnic School,** and **Final year Perception student at Paris Saclay**
+- 🔭 I’m currently searching for an **End of Study internship**.
 - 🔥 Interested in **Robotics and Deep Learning.**
 - 🌱 I’m actually learning **Reinforcement Learning.**
 - ⚙️ I use daily: **.py, .ipynb, .m.**
