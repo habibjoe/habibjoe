@@ -1,8 +1,8 @@
 - 👋 Hi there, **I’m @habibjoe**
 - 🏢 I'm a **Control engineer from Polytechnic School,** and **Final year Perception student at Paris Saclay**
-- 🔭 I’m currently searching for an **End of Study internship**.
+- 🔭 I’m currently a **Maachine Learning** intern.
 - 🔥 Interested in **Robotics and Deep Learning.**
-- 🌱 I’m actually learning **Reinforcement Learning.**
+- 🌱 I’m actually learning **Generative IA.**
 - ⚙️ I use daily: **.py, .ipynb, .m.**
 - ⚡ Fun fact **I think am funny.**
 
