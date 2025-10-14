@@ -1,6 +1,6 @@
 - 👋 Hi there, **I’m @habibjoe**
-- 🏢 I'm a **Control engineer from Polytechnic School,** and **Final year Perception student at Paris Saclay**
-- 🔭 I’m currently a **Maachine Learning** intern.
+- 🏢 I'm a **Control engineer from Polytechnic School,** and **Perception engineer from Paris Saclay**
+- 🔭 I’m currently a **Research engineer @LGI2A Lab**.
 - 🔥 Interested in **Robotics and Deep Learning.**
 - 🌱 I’m actually learning **Generative IA.**
 - ⚙️ I use daily: **.py, .ipynb, .m.**
